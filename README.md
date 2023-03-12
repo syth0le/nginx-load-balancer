@@ -22,3 +22,8 @@ You will get different outputs each time:
 --- {"message":"Hello, this is container: 3674815eaa4c"}
 ...
 ```
+
+for stopping all containers execute command:
+```shell
+docker-compose down
+```
